@@ -33,8 +33,8 @@ A aplicação consiste em um sistema de registro e entrega de pedidos, que em pr
 
 ## Layout mobile
 ![Mobile 1](https://github.com/mouracfs007/dsdeliver-sds2/blob/main/dsdeliver/assets/DSdeliver-Layout/Mobile%20P1.png)
+![Mobile 2](https://github.com/mouracfs007/dsdeliver-sds2/blob/main/dsdeliver/assets/DSdeliver-Layout/Mobile%20P2.png)
 ![Mobile 3](https://github.com/mouracfs007/dsdeliver-sds2/blob/main/dsdeliver/assets/DSdeliver-Layout/Mobile%20P3.png)
-![Mobile 2](https://github.com/mouracfs007/dsdeliver-sds2/blob/main/dsdeliver/assets/DSdeliver-Layout/Mobile%20P2.png) 
 
 ## Checklist do back end
 
