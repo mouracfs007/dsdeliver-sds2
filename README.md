@@ -99,8 +99,8 @@ Pré-requisitos:
 Foi uma experiência incrível e cheio de desafios pelo caminho , mas com total dedicação e foco consegui concluir o objetivo da criação do projeto ***DS Delivery***. Muitos se perguntam, o que é necessário para fazer este projeto?
 pois bem, em minha visão nada além de um computador com acesso a internet e muita, mas muita dedicação e persistência. Foi um evento incrível, com REALMENTE muita " mão na massa " e que pra mim foi bastante enriquecedor.
  
- **Lembrando**: Todas as ferramentas utilizadas no evento foram totalmente gratuitas, ou seja, você não precisa tirar um centavo do seu bolso. Tanto a hospedagem no back / front-end foram de formas grátis.
- Agradecendo também a todas as empresas que corroboraram com o projeto, seja a Heroku, Netlify, MapBox, que tem sim as limitações, mas o plano gratuito para um projeto de primeira mão é simplesmente fantástico para quem está começando.
+ **Lembrando**: Todas as ferramentas utilizadas no evento foram totalmente gratuitas, ou seja, você não precisa tirar um centavo do seu bolso. Tanto a hospedagem no back / front-end foram de formas gratuitas.
+ Gostaria de agradecer também a todas as empresas que corroboraram com o projeto, seja a Heroku, Netlify, MapBox, que tem sim as limitações, mas o plano gratuito para um projeto de primeira mão é simplesmente fantástico para quem está começando.
   Espero participar de mais eventos como estes, que para mim foi mais do que o suficiente para saber que minha área é a programação e eu sou apaixonado por isto. 
   #DevSuperior #programaçãoFullStack
 
