@@ -42,8 +42,8 @@ public class Order implements Serializable {
 		super();
 		this.id = id;
 		this.address = address;
-		latitude = latitude;
-		longitude = longitude;
+		this.latitude = latitude;
+		this.longitude = longitude;
 		this.moment = moment;
 		this.status = status;
 	}
@@ -69,7 +69,7 @@ public class Order implements Serializable {
 	}
 
 	public void setLatitude(Double latitude) {
-		latitude = latitude;
+		this.latitude = latitude;
 	}
 
 	public Double getLongitude() {
@@ -77,7 +77,7 @@ public class Order implements Serializable {
 	}
 
 	public void setLongitude(Double longitude) {
-		longitude = longitude;
+		this.longitude = longitude;
 	}
 
 	public Instant getMoment() {
@@ -135,5 +135,3 @@ public class Order implements Serializable {
 	}
 
 }
-
-
