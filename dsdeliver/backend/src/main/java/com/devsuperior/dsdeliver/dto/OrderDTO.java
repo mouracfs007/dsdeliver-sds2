@@ -112,5 +112,3 @@ public class OrderDTO implements Serializable {
 	}
 
 }
-
-
