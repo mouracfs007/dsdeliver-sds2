@@ -74,6 +74,7 @@ A aplicação consiste em um sistema de registro e entrega de pedidos, que em pr
 - ReactJS
 - React Native
 - MapBox
+- Expo
 
 
 ## Implantação em produção
@@ -86,9 +87,9 @@ A aplicação consiste em um sistema de registro e entrega de pedidos, que em pr
 ## Ferramentas que você deverá instalar no seu computador:
 Pré-requisitos: 
 - JDK 11
--	STS
+-	STS - Spring Tool suite
 -	Postman
-- Postgresql 12 e pgAdmin
+- PostgreSQL 12 e pgAdmin
 - Heroku CLI
 - npm / yarn
 - git ou Github desktop
