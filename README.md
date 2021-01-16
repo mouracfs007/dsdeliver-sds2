@@ -20,22 +20,22 @@ A aplicação consiste em um sistema de registro e entrega de pedidos, que em pr
 # Veja abaixo como ficou toda a elaboração e aplicação do projeto:
 
 ## Modelo conceitual
-![Modelo Conceitual](https://github.com/mouracfs007/dsdeliver-sds2/blob/main/dsdeliver/assets/modelo-conceitual.png)
+![Modelo Conceitual](https://github.com/mouracfs007/dsdeliver-sds2/blob/main/assets/modelo-conceitual.png "Imagem do modelo conceitual")
 
 ## Padrão de camadas adotado
-![Modelo de camadas](https://github.com/mouracfs007/dsdeliver-sds2/blob/main/dsdeliver/assets/Modelo%20padr%C3%A3o%20de%20camadas%20adotado.png)
+![Modelo de camadas](https://github.com/mouracfs007/dsdeliver-sds2/blob/main/assets/Modelo%20padr%C3%A3o%20de%20camadas%20adotado.png "Modelo padrão de camadas")
 
 
 ## Layout web - Página Home
-![ front-web 1](https://github.com/mouracfs007/dsdeliver-sds2/blob/main/dsdeliver/assets/DSdeliver-Layout/HOME%20DELIVERY.png)
+![ front-web 1](https://github.com/mouracfs007/dsdeliver-sds2/blob/main/assets/DSdeliver-Layout/HOME%20DELIVERY.png "Página inicial da aplicação")
 ## Layout web- Seleção de produtos e mapas.
-![front-web 2](https://github.com/mouracfs007/dsdeliver-sds2/blob/main/dsdeliver/assets/DSdeliver-Layout/SELECIONAR%20PRODUTOS.png)
+![front-web 2](https://github.com/mouracfs007/dsdeliver-sds2/blob/main/assets/DSdeliver-Layout/SELECIONAR%20PRODUTOS.png "Página de seleção de produtos e interação com mapa")
 
 ## Layout mobile
-![Mobile 1](https://github.com/mouracfs007/dsdeliver-sds2/blob/main/dsdeliver/assets/DSdeliver-Layout/Mobile%20P1.png)
+![Mobile 1](https://github.com/mouracfs007/dsdeliver-sds2/blob/main/assets/DSdeliver-Layout/Mobile%20P1.png)
 
-![Mobile 2](https://github.com/mouracfs007/dsdeliver-sds2/blob/main/dsdeliver/assets/DSdeliver-Layout/Mobile%20P2.png)
-![Mobile 3](https://github.com/mouracfs007/dsdeliver-sds2/blob/main/dsdeliver/assets/DSdeliver-Layout/Mobile%20P3.png)
+![Mobile 2](https://github.com/mouracfs007/dsdeliver-sds2/blob/main/assets/DSdeliver-Layout/Mobile%20P2.png)
+![Mobile 3](https://github.com/mouracfs007/dsdeliver-sds2/blob/main/assets/DSdeliver-Layout/Mobile%20P3.png)
 
 ## Checklist do back end
 
@@ -74,6 +74,7 @@ A aplicação consiste em um sistema de registro e entrega de pedidos, que em pr
 - ReactJS
 - React Native
 - MapBox
+- Expo
 
 
 ## Implantação em produção
@@ -86,9 +87,9 @@ A aplicação consiste em um sistema de registro e entrega de pedidos, que em pr
 ## Ferramentas que você deverá instalar no seu computador:
 Pré-requisitos: 
 - JDK 11
--	STS
+-	STS - Spring Tool suite
 -	Postman
-- Postgresql 12 e pgAdmin
+- PostgreSQL 12 e pgAdmin
 - Heroku CLI
 - npm / yarn
 - git ou Github desktop
